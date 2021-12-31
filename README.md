@@ -1,6 +1,6 @@
 # Hi, I'm Saif Karnawi
-Knew coding is for me since outstanding achievment in information technology, grade 9 with 100% grade. 
-Took my first post-secondary computer science class in 2019 focused on c#, never looked back since.
+Knew coding is for me since my outstanding achievment in information technology reward, grade 9, scoring 100%. 
+Took my first post-secondary computer science class in 2019 focused on c#, and never looked back since.
 ## Coding Experience
 - Java, Python, C#, HTML, CSS
 - SQL, JavaFx, Swing, tkinter
