@@ -4,7 +4,7 @@ Took my first post-secondary computer science class in 2019 focused on c#, and n
 ## Coding Experience
 - Java, Python, C#, HTML, CSS
 - SQL, JSON, JavaFx, Swing, tkinter
-- Git, Visual Studio, Atom, Ecllipse, IntelliJ, Thonny
+- Git, Visual Studio, Atom, Eclipse, IntelliJ, Thonny
 ## Currently Learning
 - Javascript (On my own time)
 - C++ and Algorithms / Data Structures (UBC CPSC 221)
