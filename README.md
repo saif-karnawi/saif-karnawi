@@ -6,7 +6,7 @@ Took my first post-secondary computer science class in 2019 focused on c#, and n
 - SQL, REST APIs, JSON, JavaFx, Swing, tkinter
 - Git, Postman, Visual Studio, Atom, Eclipse, IntelliJ, Thonny
 ## Currently Learning
-- Javascript (On my own time)
+- Javascript, MongoDb, React, Node, Express.js. (Currenly developing a MERN website that keeps memories you share.)
 - C++ and Algorithms / Data Structures (UBC CPSC 221)
 - Assembly and C (UBC CPSC 213 - Introduction to Computer Systems)
 
