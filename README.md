@@ -3,7 +3,7 @@ Knew coding is for me since my outstanding achievement in information technology
 Took my first post-secondary computer science class in 2019 focused on c#, and never looked back since.
 ## Coding Experience
 - Java, Python, C#, HTML, CSS, 
-- SQL, REST APIs, JSON, JavaFx, Swing, tkinter
+- JUnit, MySQL, REST APIs, JSON, JavaFx, Swing, tkinter
 - Git, Postman, Visual Studio, Atom, Eclipse, Sublime, IntelliJ, Thonny, Terminal
 ## Currently Mastering
 - Javascript, MongoDb, React, Node, Express.js. (Currenly developing a MERN website that keeps memories you share.)
