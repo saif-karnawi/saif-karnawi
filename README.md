@@ -7,6 +7,5 @@ Took my first post-secondary computer science class in 2019 focused on c#, and n
 - Git, Postman, Visual Studio, Atom, Eclipse, Sublime, IntelliJ, Thonny, Terminal
 ## Currently Learning About
 - AWS Cloud Certificate
-- Javascript, MongoDb, React, Node, Express.js. (Currenly developing a MERN website that keeps memories you share.)
 - Assembly
 
